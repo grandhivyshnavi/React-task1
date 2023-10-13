@@ -1,4 +1,4 @@
-import 'C:/MERN/ReactJS/task1/src/App.css';
+import '../App.css';
 import { useState } from "react";
 
 function WordCounter() {
